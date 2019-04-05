@@ -1,0 +1,16 @@
+[package]
+description = "Netfilter NFCONNTRACK high-level bindings"
+license = "GPL-2.0+"
+keywords = ["netfilter","conntrack","nfconntrack"]
+homepage = "https://github.com/medmr1/nfconntrack-rs"
+repository = "https://github.com/medmr1/nfconntrack-rs.git"
+
+name = "nfconntrack"
+version = "0.9.1"
+authors = [ "Mike Edmister <mike.edmister@pm.me>" ]
+
+[dependencies]
+libc = "^0.2"
+
+[dev_dependencies]
+pnet = "0.17.1"

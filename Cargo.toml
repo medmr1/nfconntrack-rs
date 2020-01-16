@@ -6,7 +6,7 @@ homepage = "https://github.com/medmr1/nfconntrack-rs"
 repository = "https://github.com/medmr1/nfconntrack-rs.git"
 
 name = "nfconntrack"
-version = "0.9.1"
+version = "0.0.1"
 authors = [ "Mike Edmister <mike.edmister@pm.me>" ]
 
 [dependencies]
